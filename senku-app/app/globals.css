@@ -28,3 +28,7 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.container {
+    padding: 50px;
+}
