@@ -32,3 +32,24 @@ a:hover {
 .container {
     padding: 50px;
 }
+
+.post {
+    width: 500px;
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #598191;
+    color: #000;
+}
+
+.post h2 {
+    margin-bottom: 20px;
+}
+
+.post p {
+    margin-bottom: 10px;
+}
+
+.post a {
+    color: #283c44;
+}
